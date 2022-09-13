@@ -3,8 +3,10 @@ This is an installation mirror for xtream ui software.
 
 <h1>How do I install?</h1>
 #update your ubuntu first, then install panel
+
 ```
 sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install software-properties-common libxslt1-dev libcurl3 libgeoip-dev python -y;
+```
 ```
 rm install.py; 
 ```
